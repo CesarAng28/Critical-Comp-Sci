@@ -19,7 +19,6 @@ Big Data, new epistemologies and paradigm shifts
 Rob Kitchin (2014)
 https://journals.sagepub.com/doi/full/10.1177/2053951714528481
 
-
 ## Books
 Algorithms of Oppression: How Search Engines Reinforce Racism by Safiya Umoja Noble
 https://nyupress.org/9781479837243/algorithms-of-oppression/
